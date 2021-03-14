@@ -30,11 +30,6 @@
 	    <scope>provided</scope>
 	</dependency>
 
-
-
-
-	
-    
   </dependencies>
   <build>
     <finalName>BookMyTime</finalName>
